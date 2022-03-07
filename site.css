@@ -1,3 +1,17 @@
-html {
-    color: blue;
+body {
+    background-color: #fdfaf6;
+}
+
+.header {
+    text-align: center;
+}
+
+h2 {
+    font-family: Noto Sans;
+    color: #585858;
+}
+
+.social i {
+    font-size: 1.25rem;
+    color: #7393B3;
 }
